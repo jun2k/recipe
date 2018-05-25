@@ -1,2 +1,2 @@
 # recipe
-list to recipes
+list of recipes
